@@ -1,0 +1,42 @@
+.backgroundimg{
+    background-image: url(../images/food\ delivery\ background.jpg);
+    background-size: cover;
+}
+.box{
+    height: 400px;
+ 
+}
+.padding{
+padding:200px 0 200px 0 ;
+}
+.buttonfont{
+    font-size: 10px;
+}
+.googleplayimages{
+    height: 39px;
+    width: 39px;
+}
+.courierimg{
+    height: 400px;
+    width: 100%;
+}
+.mobileimg{
+    height: 500px;
+    width: 300px;
+    
+}
+.portfolioimg{
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+.bg_aqua{
+    background-color: #f1f8ff;
+}
+.bg_green{
+    background-color: #fff7f1;
+}
+.bg_img{
+    background-image: url(../images/food\ delivery\ background.jpg);
+    background-size: cover;
+}
